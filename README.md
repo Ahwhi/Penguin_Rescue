@@ -83,13 +83,12 @@
 
 ### 📋 플레이 영상
 
-Link: https://youtu.be/XiNa4PAX0yM
+Link: https://youtu.be/eP125m67mEc
 
 ---
 
 ### 🔎 게임 미리보기
-![SCR0](https://github.com/Ahwhi/KBO_MANAGER_2025/blob/main/ScreenShots/0.png)
-![SCR1](https://github.com/Ahwhi/KBO_MANAGER_2025/blob/main/ScreenShots/1.png)
+![SCR0](https://github.com/Ahwhi/Penguin_Rescue/blob/main/ScreenShots/1.png)
 
 ---
 
